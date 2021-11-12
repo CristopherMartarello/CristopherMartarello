@@ -1,5 +1,5 @@
 - 👋 Hi! I’m @CristopherMartarello
-- 📌 Santa Catarina, Brasil
+- 📌 Curitibanos, Santa Catarina - Brazil
 - 📖 I’m currently learning Computer Science
 
 <!---
