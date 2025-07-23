@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, sou o Cristopher! Entusiasta da tecnologia e Desenvolvedor Full-Stack!</h1>
+<h1>👋 &nbsp;Olá, sou o Cristopher! <br/>Entusiasta da tecnologia e Desenvolvedor Full-Stack!</h1>
 <p align="center">
   <a href="https://cristophermartarello.vercel.app/pt" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/cristophermartarello"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -22,7 +22,7 @@ Este repositório do GitHub representa minha trajetória como desenvolvedor, é 
 - Projetos focados em aplicações web e mobile com código limpo e de fácil manutenção  
 - Uso prático de tecnologias modernas como React.js, Next.js, Node.js, Firebase e TypeScript  
 - Implementações que valorizam a experiência do usuário, performance e escalabilidade  
-- Insights sobre automação e integrações de APIs   
+- Projetos de faculdade que exploram fundamentos da computação, banco de dados, redes e segurança
 - Aprendizado contínuo por meio de experimentos, estudos técnicos e práticas ágeis  
 
 Se quiser se conectar, colaborar ou trocar ideias sobre tecnologia, fique à vontade para <a href="mailto:crisrossi1313@gmail.com">me enviar um e-mail</a> ou me procurar no <a href="https://www.linkedin.com/in/cristophermartarello">LinkedIn</a>. Estou sempre aberto a novas oportunidades e desafios!
