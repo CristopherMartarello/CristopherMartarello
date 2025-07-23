@@ -1,4 +1,4 @@
-### Hey! I'm Cristopher Martarello! 👋
+### Olá! Sou o Cristopher, um entusiasta da tecnologia e desenvolvedor Full-Stack 👋
 
 <div align="center">
   <a href="https://github.com/CristopherMartarello">
