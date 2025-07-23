@@ -5,7 +5,7 @@
 <a href="mailto:crisrossi1313@gmail.coma"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h2>😀 &nbsp;About Me </h2>
+<h2>😀 &nbsp;Sobre mim </h2>
 
 Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia, inovação e tudo que envolve criar soluções que fazem a diferença. Minha jornada na programação começou por pura curiosidade e entusiasmo pelo universo dos games, onde passei a explorar comandos, servidores e modificações. Foi ali que percebi o poder da lógica e da criação, percebi que poderia fazer coisas incríveis através das linhas de código.
 
@@ -15,7 +15,19 @@ Atualmente estou no último semestre da graduação em **Ciência da Computaçã
 
 Desde então, venho me aprofundando no desenvolvimento de aplicações **web e mobile**, sempre com foco em entregar produtos funcionais, bem estruturados e com excelente experiência para o usuário. Estou sempre buscando desafios que me façam melhorar como pessoa e crescer como desenvolvedor.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h2>📚 &nbsp;O que você vai encontrar aqui?</h2>
+
+Este repositório do GitHub representa minha trajetória como desenvolvedor, é o repositório que utilizo para elencar as minhas soluções que desenvolvi até agora, das quais tenho muito orgulho. Seja você recrutador, colega desenvolvedor ou entusiasta de tecnologia, aqui está o que pode esperar:
+
+- Projetos focados em aplicações web e mobile com código limpo e de fácil manutenção  
+- Uso prático de tecnologias modernas como React.js, Next.js, Node.js, Firebase e TypeScript  
+- Implementações que valorizam a experiência do usuário, performance e escalabilidade  
+- Insights sobre automação, integrações de APIs e desenvolvimento de chatbots  
+- Aprendizado contínuo por meio de experimentos, estudos técnicos e práticas ágeis  
+
+Se quiser se conectar, colaborar ou trocar ideias sobre tecnologia, fique à vontade para <a href="mailto:crisrossi1313@gmail.com">me enviar um e-mail</a> ou me procurar no <a href="https://www.linkedin.com/in/cristophermartarello">LinkedIn</a>. Estou sempre aberto a novas oportunidades e desafios!
+
+<h2> 🛠 &nbsp;Stack de Tecnologias</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -28,15 +40,18 @@ Desde então, venho me aprofundando no desenvolvimento de aplicações **web e m
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
 
-<h3>⚙️ &nbsp;Back-end & databases:</h3>
+<h3>⚙️ &nbsp;Back-end & Databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
+<h2>🚀 &nbsp;GitHub Stats</h2>
 
 <div align="center">
   <a href="https://github.com/CristopherMartarello">
