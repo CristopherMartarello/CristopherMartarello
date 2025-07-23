@@ -1,8 +1,8 @@
 <h1>👋 &nbsp;Olá, sou o Cristopher! Entusiasta da tecnologia e Desenvolvedor Full-Stack!</h1>
 <p align="center">
   <a href="https://cristophermartarello.vercel.app/pt" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"/></a>
-<a href="https://www.linkedin.com/in/cristophermartarello"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:crisrossi1313@gmail.coma"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristophermartarello"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:crisrossi1313@gmail.coma"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h2>😀 &nbsp;Sobre mim </h2>
@@ -22,7 +22,7 @@ Este repositório do GitHub representa minha trajetória como desenvolvedor, é 
 - Projetos focados em aplicações web e mobile com código limpo e de fácil manutenção  
 - Uso prático de tecnologias modernas como React.js, Next.js, Node.js, Firebase e TypeScript  
 - Implementações que valorizam a experiência do usuário, performance e escalabilidade  
-- Insights sobre automação, integrações de APIs e desenvolvimento de chatbots  
+- Insights sobre automação e integrações de APIs   
 - Aprendizado contínuo por meio de experimentos, estudos técnicos e práticas ágeis  
 
 Se quiser se conectar, colaborar ou trocar ideias sobre tecnologia, fique à vontade para <a href="mailto:crisrossi1313@gmail.com">me enviar um e-mail</a> ou me procurar no <a href="https://www.linkedin.com/in/cristophermartarello">LinkedIn</a>. Estou sempre aberto a novas oportunidades e desafios!
@@ -31,14 +31,13 @@ Se quiser se conectar, colaborar ou trocar ideias sobre tecnologia, fique à von
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
 
 <h3>⚙️ &nbsp;Back-end & Databases:</h3>
 
