@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, sou o Cristopher! Entusiasta da tecnologia e Desenvolvedor Full-Stack</h1>
+<h1>👋 &nbsp;Olá, sou o Cristopher! Entusiasta da tecnologia e Desenvolvedor Front-End</h1>
 <p align="center">
   <a href="https://cristophermartarello.vercel.app/pt" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/cristophermartarello"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
