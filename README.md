@@ -7,7 +7,7 @@
 
 <h2>😀 &nbsp;Sobre mim </h2>
 
-Sou um desenvolvedor **Full-Stack** apaixonado por tecnologia, inovação e tudo que envolve criar soluções que fazem a diferença. Minha jornada na programação começou por pura curiosidade e entusiasmo pelo universo dos games, onde passei a explorar comandos, servidores e modificações. Foi ali que percebi o poder da lógica e da criação, percebi que poderia fazer coisas incríveis através das linhas de código.
+Sou um desenvolvedor **Front-End** apaixonado por tecnologia, inovação e tudo que envolve criar soluções que fazem a diferença. Minha jornada na programação começou por pura curiosidade e entusiasmo pelo universo dos games, onde passei a explorar comandos, servidores e modificações. Foi ali que percebi o poder da lógica e da criação, percebi que poderia fazer coisas incríveis através das linhas de código.
 
 Ao longo dessa caminhada, participei de projetos reais com times multidisciplinares, atuando desde a criação de interfaces e consumo de APIs até integrações mais complexas e automação de processos. Também desenvolvi ferramentas internas, atuei com suporte técnico e participei ativamente de sprints em ambientes ágeis, o que fortaleceu minha capacidade de comunicação e colaboração.
 
