@@ -11,10 +11,6 @@ Sou um desenvolvedor **Front-End** apaixonado por tecnologia, inovação e tudo 
 
 Ao longo dessa caminhada, participei de projetos reais com times multidisciplinares, atuando desde a criação de interfaces e consumo de APIs até integrações mais complexas e automação de processos. Também desenvolvi ferramentas internas, atuei com suporte técnico e participei ativamente de sprints em ambientes ágeis, o que fortaleceu minha capacidade de comunicação e colaboração.
 
-Atualmente estou no último semestre da graduação em **Ciência da Computação**, desenvolvendo meu **TCC** com foco em **gestão de dados e interação inteligente entre sistemas, agentes e usuários**.
-
-Desde então, venho me aprofundando no desenvolvimento de aplicações **web e mobile**, sempre com foco em entregar produtos funcionais, bem estruturados e com excelente experiência para o usuário. Estou sempre buscando desafios que me façam melhorar como pessoa e crescer como desenvolvedor.
-
 <h2>📚 &nbsp;O que você vai encontrar aqui?</h2>
 
 Este repositório do GitHub representa minha trajetória como desenvolvedor, é o repositório que utilizo para elencar as minhas soluções que desenvolvi até agora, das quais tenho muito orgulho. Seja você recrutador, colega desenvolvedor ou entusiasta de tecnologia, aqui está o que pode esperar:
